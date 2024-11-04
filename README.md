@@ -18,7 +18,7 @@ conda create --name eamt22 python=3.8.10
 ```
 3. Install dependencies:
 ```bash
-pip install spacy=2.2.4 tensorflow==2.2.0 keras==2.3.1
+pip install spacy=2.2.4 tensorflow==2.2.0 keras==2.3.1 protobuf==3.19
 ```
 4. Download the Morfeusz model:
 ```bash
